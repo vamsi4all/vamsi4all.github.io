@@ -1,0 +1,19 @@
+title:             Vamsi4All
+email:             vamsikrishna4all@gmail.com
+description:       Technology Blog
+author:            Vamsi
+baseurl:           "/"
+url:               "https://vamsi4all.github.io"
+
+# Social Profiles
+twitter_username:  
+github_username:   
+facebook_username: 
+
+# Build settings
+markdown:          kramdown
+paginate:          10
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
