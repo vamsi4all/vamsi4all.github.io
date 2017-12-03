@@ -2,11 +2,11 @@ var gulp = require('gulp');
 
 gulp.task('copy', function() {
 
-  // Start Bootstrap Clean Blog SCSS
+  // Vamsi4All Clean Blog SCSS
   gulp.src(['node_modules/startbootstrap-clean-blog/scss/**/*'])
     .pipe(gulp.dest('assets/vendor/startbootstrap-clean-blog/scss'))
 
-  // Start Bootstrap Clean Blog JS
+  // Vamsi4All Clean Blog JS
   gulp.src([
       'node_modules/startbootstrap-clean-blog/js/clean-blog.min.js',
       'node_modules/startbootstrap-clean-blog/js/jqBootstrapValidation.js'

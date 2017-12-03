@@ -3,10 +3,10 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-clean-blog"
   spec.version       = "0.1.1"
-  spec.authors       = ["Start Bootstrap"]
+  spec.authors       = ["Vamsi4All"]
   spec.email         = ["feedback@startbootstrap.com"]
 
-  spec.summary       = %q{A simple blog theme based on Bootstrap 4 by Start Bootstrap.}
+  spec.summary       = %q{A simple blog theme based on Bootstrap 4 by Vamsi4All.}
   spec.homepage      = "https://github.com/blackrockdigital/startbootstrap-clean-blog-jekyll"
   spec.license       = "MIT"
 
